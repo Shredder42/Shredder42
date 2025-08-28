@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi, I'm Alex Binder
 
+I've enjoyed coding since I took the Galavanize Data Science Immersive and learned to code in Python. I built skills in data science while discovering the vast potential of learning to code. I also completed Boot.Dev in which I learned backend development and Go. I find game development to be interesting as well and in my freee time I work on 2-D games in both of these languages. Additionally, I have taken an interest in cryptography and cybersecurity and am seeking to build skills in these fields as well.
+
+I am currently looking for data science or backend development roles. I would love to utilize Go or Python (or both!). I would be a great fit on a team where I would have the opportunity to learn from others while also making an impact quickly. If you are hiring, reach out to me and let's chat!
 <!--
 **Shredder42/Shredder42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
